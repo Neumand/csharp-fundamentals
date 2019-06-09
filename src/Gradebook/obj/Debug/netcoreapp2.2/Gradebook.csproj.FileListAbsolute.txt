@@ -1,0 +1,11 @@
+/home/neumand/projects/csharp-fundamentals/src/Gradebook/bin/Debug/netcoreapp2.2/Gradebook.deps.json
+/home/neumand/projects/csharp-fundamentals/src/Gradebook/bin/Debug/netcoreapp2.2/Gradebook.runtimeconfig.json
+/home/neumand/projects/csharp-fundamentals/src/Gradebook/bin/Debug/netcoreapp2.2/Gradebook.runtimeconfig.dev.json
+/home/neumand/projects/csharp-fundamentals/src/Gradebook/bin/Debug/netcoreapp2.2/Gradebook.dll
+/home/neumand/projects/csharp-fundamentals/src/Gradebook/bin/Debug/netcoreapp2.2/Gradebook.pdb
+/home/neumand/projects/csharp-fundamentals/src/Gradebook/obj/Debug/netcoreapp2.2/Gradebook.csprojAssemblyReference.cache
+/home/neumand/projects/csharp-fundamentals/src/Gradebook/obj/Debug/netcoreapp2.2/Gradebook.csproj.CoreCompileInputs.cache
+/home/neumand/projects/csharp-fundamentals/src/Gradebook/obj/Debug/netcoreapp2.2/Gradebook.AssemblyInfoInputs.cache
+/home/neumand/projects/csharp-fundamentals/src/Gradebook/obj/Debug/netcoreapp2.2/Gradebook.AssemblyInfo.cs
+/home/neumand/projects/csharp-fundamentals/src/Gradebook/obj/Debug/netcoreapp2.2/Gradebook.dll
+/home/neumand/projects/csharp-fundamentals/src/Gradebook/obj/Debug/netcoreapp2.2/Gradebook.pdb
