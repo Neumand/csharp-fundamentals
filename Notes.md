@@ -13,4 +13,5 @@
 **Static**
 * Not associated with an object instance, associated with a type
 * Be conservative when using this keyword
-* Negatives the benefit of OOP
+* Negates the benefit of OOP
+* Beneficial to use system-wide classes (i.e. Console, Math, Double)
