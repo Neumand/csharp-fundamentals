@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 
+// Avoids conflicts with types and classes that are defined by Microsoft libraries, for example.
 namespace Gradebook
 {
   class Program
@@ -18,15 +19,6 @@ namespace Gradebook
       var average = result / grades.Count;
       Console.WriteLine($"The sum of all grades is {result:N2}");
       Console.WriteLine($"The average grade is {average:N2}");
-
-      if (args.Length > 0)
-      {
-        Console.WriteLine($"Hello, {args[0]}!");
-      }
-      else
-      {
-        Console.WriteLine("Hello!");
-      }
     }
   }
 }
