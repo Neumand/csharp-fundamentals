@@ -9,3 +9,14 @@
 /home/neumand/projects/csharp-fundamentals/src/Gradebook/obj/Debug/netcoreapp2.2/Gradebook.AssemblyInfo.cs
 /home/neumand/projects/csharp-fundamentals/src/Gradebook/obj/Debug/netcoreapp2.2/Gradebook.dll
 /home/neumand/projects/csharp-fundamentals/src/Gradebook/obj/Debug/netcoreapp2.2/Gradebook.pdb
+C:\Users\DavidNeuman\Documents\csharp-fundamentals\src\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.deps.json
+C:\Users\DavidNeuman\Documents\csharp-fundamentals\src\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.runtimeconfig.json
+C:\Users\DavidNeuman\Documents\csharp-fundamentals\src\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.runtimeconfig.dev.json
+C:\Users\DavidNeuman\Documents\csharp-fundamentals\src\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.dll
+C:\Users\DavidNeuman\Documents\csharp-fundamentals\src\Gradebook\bin\Debug\netcoreapp2.2\Gradebook.pdb
+C:\Users\DavidNeuman\Documents\csharp-fundamentals\src\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.csprojAssemblyReference.cache
+C:\Users\DavidNeuman\Documents\csharp-fundamentals\src\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.csproj.CoreCompileInputs.cache
+C:\Users\DavidNeuman\Documents\csharp-fundamentals\src\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.AssemblyInfoInputs.cache
+C:\Users\DavidNeuman\Documents\csharp-fundamentals\src\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.AssemblyInfo.cs
+C:\Users\DavidNeuman\Documents\csharp-fundamentals\src\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.dll
+C:\Users\DavidNeuman\Documents\csharp-fundamentals\src\Gradebook\obj\Debug\netcoreapp2.2\Gradebook.pdb

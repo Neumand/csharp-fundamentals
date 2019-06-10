@@ -10,4 +10,8 @@
 * dotnet is required to run compiled code
   Eg. `dotnet bin\debug\netcoreapp2.1\Gradebook.dll`
 
-### Type Parameters
+**Static**
+* Not associated with an object instance, associated with a type
+* Be conservative when using this keyword
+* Negates the benefit of OOP
+* Beneficial to use system-wide classes (i.e. Console, Math, Double)
