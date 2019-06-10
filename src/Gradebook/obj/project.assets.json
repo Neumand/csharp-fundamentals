@@ -686,31 +686,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DavidNeuman\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/neumand/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DavidNeuman\\Documents\\csharp-fundamentals\\src\\Gradebook\\Gradebook.csproj",
+      "projectUniqueName": "/home/neumand/projects/csharp-fundamentals/src/Gradebook/Gradebook.csproj",
       "projectName": "Gradebook",
-      "projectPath": "C:\\Users\\DavidNeuman\\Documents\\csharp-fundamentals\\src\\Gradebook\\Gradebook.csproj",
-      "packagesPath": "C:\\Users\\DavidNeuman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DavidNeuman\\Documents\\csharp-fundamentals\\src\\Gradebook\\obj\\",
+      "projectPath": "/home/neumand/projects/csharp-fundamentals/src/Gradebook/Gradebook.csproj",
+      "packagesPath": "/home/neumand/.nuget/packages/",
+      "outputPath": "/home/neumand/projects/csharp-fundamentals/src/Gradebook/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\DavidNeuman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/home/neumand/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
