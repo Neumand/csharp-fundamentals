@@ -15,3 +15,12 @@
 * Be conservative when using this keyword
 * Negates the benefit of OOP
 * Beneficial to use system-wide classes (i.e. Console, Math, Double)
+
+### Reference vs. Values
+
+**Value Types**
+* Value types creates space for the variable, but stores the actual value itself, no reference
+* These are integers, floats, doubles
+
+**Reference Types**
+* 
