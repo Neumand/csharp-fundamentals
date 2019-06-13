@@ -4,27 +4,64 @@ using GradeBook;
 
 namespace Gradebook
 {
-  public class Book
+  public delegate void GradedAddedDelegate(object sender, EventArgs args);
+  public class NamedObject
   {
-    public Book(string name)
+    public NamedObject(string name)
+    {
+      Name = name;
+    }
+
+    public string Name { get; set; }
+  }
+  public class Book : NamedObject
+  {
+    public Book(string name) : base(name)
     {
       grades = new List<double>();
       Name = name;
     }
 
-    public void AddLetterGrade(char letter)
+    public void AddGrade(char letter)
     {
+      switch (letter)
+      {
+        case 'A':
+          AddGrade(90);
+          break;
+        case 'B':
+          AddGrade(80);
+          break;
+        case 'C':
+          AddGrade(70);
+          break;
+        case 'D':
+          AddGrade(60);
+          break;
+        case 'F':
+          AddGrade(0);
+          break;
+        default:
+          AddGrade(0);
+          break;
+      }
 
     }
     public void AddGrade(double grade)
     {
       if (grade <= 100 & grade >= 0)
         grades.Add(grade);
+      if (GradeAdded != null)
+      {
+        GradeAdded(this, new EventArgs());
+      }
       else
       {
         throw new ArgumentException($"{grade} is not a valid grade. Please enter a grade between 0 and 100");
       }
     }
+
+    public event GradedAddedDelegate GradeAdded;
 
     public Statistics GetStatistics()
     {
@@ -64,6 +101,7 @@ namespace Gradebook
     }
 
     private List<double> grades;
-    public string Name;
+
+    public const string CATEGORY = "Science";
   }
 }
